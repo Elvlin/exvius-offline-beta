@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "revision": 14,
-  "version": "2026.11.17.14",
+  "revision": 15,
+  "version": "2026.11.17.15",
   "minAppVersionCode": 9077,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.37/exvius-client-assets.zip",
-      "size": 103702092,
-      "unpackedSize": 103701936,
-      "sha256": "6e3036c450f798436ed1ecb384ba5317971e873e83c49f8f684688f4db02b345"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r15/exvius-client-assets-r15.zip",
+      "size": 103702500,
+      "unpackedSize": 103702344,
+      "sha256": "7e41342245ac39a1b550d70ec8d784ea6d3dc18140bb808eda7a4aecfc91eb6c"
     },
     {
       "id": "data-001",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.37/exvius-data-001.zip",
-      "size": 1215396869,
-      "unpackedSize": 1460396500,
-      "sha256": "711de9f573ceba031945800bc3641107385739fe44ce62d8b4b8407d7b57e6cd"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r15/exvius-data-001-r15.zip",
+      "size": 1215403873,
+      "unpackedSize": 1460479410,
+      "sha256": "55c2f0e60e2103fb77f50c23ca29bb215f423c341fd4b9aa6687743047a5b8cf"
     },
     {
       "id": "data-002",
@@ -164,10 +164,24 @@
       "size": 5523384,
       "unpackedSize": 5510018,
       "sha256": "4d3fe54e15894e07c592aefa97325c5053372e833524aefdc4655cc27aa7617f"
+    },
+    {
+      "id": "overwrite-repair-1",
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r15/exvius-overwrite-repair-1-r15.zip",
+      "size": 1461467455,
+      "unpackedSize": 1461161405,
+      "sha256": "0829717f964312b63847ce51f3164167a0983067a97721fa0dcebabf0871ba49"
+    },
+    {
+      "id": "overwrite-repair-2",
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r15/exvius-overwrite-repair-2-r15.zip",
+      "size": 1200686658,
+      "unpackedSize": 1332110907,
+      "sha256": "3602139c4683516233b30cde5892c7f494bc88df21f12c52171a7546816227b2"
     }
   ],
-  "downloadBytes": 18634180546,
-  "installedBytes": 19052076378,
+  "downloadBytes": 21296342071,
+  "installedBytes": 21845432008,
   "files": 16433,
   "app": {
     "version": "0.1.37",
