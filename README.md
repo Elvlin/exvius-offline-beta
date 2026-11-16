@@ -21,7 +21,7 @@ The beta is a separate app (`com.exvius.vision.elvlin`). It installs beside the 
 ## Saves
 
 - Both apps use the same save format. **Save management > Export save** in one app makes a file that **Import save** in the other app reads.
-- [`save/exvius-beta-test-save.zip`](save/exvius-beta-test-save.zip) is a fresh test save with maxed gil, maxed summon tickets and maxed raid coins, so you can try everything. Import it with **Save management > Import save**.
+- [`save/exvius-beta-test-save.zip`](save/exvius-beta-test-save.zip) is a fresh test save with maxed gil, Lapis, summon tickets and raid coins, so you can try everything. Import it with **Save management > Import save**.
 
 ## If the game data check does not start
 
