@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 15,
-  "version": "2026.11.17.15",
+  "revision": 16,
+  "version": "2026.11.17.16",
   "minAppVersionCode": 9077,
   "packs": [
     {
@@ -13,17 +13,17 @@
     },
     {
       "id": "data-001",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r15/exvius-data-001-r15.zip",
-      "size": 1215403873,
-      "unpackedSize": 1460479410,
-      "sha256": "55c2f0e60e2103fb77f50c23ca29bb215f423c341fd4b9aa6687743047a5b8cf"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r16/exvius-data-001-r16.zip",
+      "size": 1188257169,
+      "unpackedSize": 1311194012,
+      "sha256": "6ad80b436bdbb116322c8002d2bf8d4a3565740980cd47f1b2c2919d0d218cfa"
     },
     {
       "id": "data-002",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.37/exvius-data-002.zip",
-      "size": 1485498789,
-      "unpackedSize": 1484910461,
-      "sha256": "672d4ab8629a055c1f01b2b87fb009b292cb3243985e484ce3c9adf89f2992fd"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r16/exvius-data-002-r16.zip",
+      "size": 1259410225,
+      "unpackedSize": 1259067833,
+      "sha256": "33846b42e70476e2251cbd2fa6714dddde2f7e18a0c741e8f751f9a528468c15"
     },
     {
       "id": "data-003",
@@ -76,10 +76,10 @@
     },
     {
       "id": "data-010",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.37/exvius-data-010.zip",
-      "size": 1457879995,
-      "unpackedSize": 1457628345,
-      "sha256": "b4f948dad53e468f0913ed84655221db5f6d1851986d80460e950d78aa3c272c"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r16/exvius-data-010-r16.zip",
+      "size": 1290589704,
+      "unpackedSize": 1290352026,
+      "sha256": "a70845c133308e9a0f4dbb2335ab1ec5352b101a5e92f551eda3ae062e76f5a8"
     },
     {
       "id": "data-011",
@@ -180,8 +180,8 @@
       "sha256": "3602139c4683516233b30cde5892c7f494bc88df21f12c52171a7546816227b2"
     }
   ],
-  "downloadBytes": 21296342071,
-  "installedBytes": 21845432008,
+  "downloadBytes": 20875816512,
+  "installedBytes": 21303027663,
   "files": 16433,
   "app": {
     "version": "0.1.37",
@@ -189,6 +189,6 @@
     "versionCode": 9077,
     "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.37/exvius-offline-v0.1.37-beta.apk",
     "size": 41299160,
-    "sha256": "dc1e72696944d113e209b83aa65c309a8e4fa5208727554ae7fcb6f33c9cf6e1"
+    "sha256": "983ce03653a53704645d1c2f0fc6223bcab86a8ce6875a9e6f3535d6c59ef1e5"
   }
 }
