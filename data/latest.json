@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "revision": 18,
-  "version": "2026.11.17.17",
+  "revision": 20,
+  "version": "2026.11.17.20",
   "minAppVersionCode": 9077,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r15/exvius-client-assets-r15.zip",
-      "size": 103702500,
-      "unpackedSize": 103702344,
-      "sha256": "7e41342245ac39a1b550d70ec8d784ea6d3dc18140bb808eda7a4aecfc91eb6c"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r20/exvius-client-assets-r20.zip",
+      "size": 103705021,
+      "unpackedSize": 103704865,
+      "sha256": "a07b8bbb758ebd0fee449e0763ea78abb97ceabfe558c1bc162f3d4503e589a1"
     },
     {
       "id": "data-001",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r16/exvius-data-001-r16.zip",
-      "size": 1188257169,
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r20/exvius-data-001-r20.zip",
+      "size": 1192033956,
       "unpackedSize": 1311194012,
-      "sha256": "6ad80b436bdbb116322c8002d2bf8d4a3565740980cd47f1b2c2919d0d218cfa"
+      "sha256": "4e99b326c5160ec2970d6d41bb1a67064ac1baf3bd0be3b95b4d55aa2c533601"
     },
     {
       "id": "data-002",
@@ -76,10 +76,10 @@
     },
     {
       "id": "data-010",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r16/exvius-data-010-r16.zip",
-      "size": 1290589704,
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r20/exvius-data-010-r20.zip",
+      "size": 1290589744,
       "unpackedSize": 1290352026,
-      "sha256": "a70845c133308e9a0f4dbb2335ab1ec5352b101a5e92f551eda3ae062e76f5a8"
+      "sha256": "9138175c4e8393cc4ad8b3d573212d1caec0174561ea75e80506c01feaa6586a"
     },
     {
       "id": "data-011",
@@ -153,10 +153,10 @@
     },
     {
       "id": "content-003",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.37/exvius-content-003.zip",
-      "size": 942665918,
-      "unpackedSize": 1075755311,
-      "sha256": "a9afb35563310317cdc7cbc56b3998a279fafcb9cdf7e7dd03753fc3f395fb1f"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r20/exvius-content-003-r20.zip",
+      "size": 947697126,
+      "unpackedSize": 1090718617,
+      "sha256": "b4d5e486084cd7f3b15ba1bbc5dda8add86af9ca2892fab8ecc29811bd1bffcb"
     },
     {
       "id": "equipment-enhancement",
@@ -167,10 +167,10 @@
     },
     {
       "id": "overwrite-repair-1",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r15/exvius-overwrite-repair-1-r15.zip",
-      "size": 1461467455,
-      "unpackedSize": 1461161405,
-      "sha256": "0829717f964312b63847ce51f3164167a0983067a97721fa0dcebabf0871ba49"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r20/exvius-overwrite-repair-1-r20.zip",
+      "size": 1461608017,
+      "unpackedSize": 1461301485,
+      "sha256": "bb253fa94d235a24a7ecc86234d0b8d26883bddef39f0dd60c3da6f0c5bb4a9f"
     },
     {
       "id": "overwrite-repair-2",
@@ -180,15 +180,15 @@
       "sha256": "3602139c4683516233b30cde5892c7f494bc88df21f12c52171a7546816227b2"
     }
   ],
-  "downloadBytes": 20875816512,
-  "installedBytes": 21303027663,
+  "downloadBytes": 20884767630,
+  "installedBytes": 21318133570,
   "files": 16433,
   "app": {
-    "version": "0.1.39",
-    "versionName": "9.0.0-offline.39",
-    "versionCode": 9079,
-    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.39/exvius-offline-v0.1.39-beta.apk",
-    "size": 41618648,
-    "sha256": "eca52e2251351d3216047d849fb877f27874d862df14a498f9a48d73660cb50b"
+    "version": "0.1.49",
+    "versionName": "offline.49",
+    "versionCode": 9089,
+    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.49/exvius-offline-v0.1.49-beta.apk",
+    "size": 41622744,
+    "sha256": "1225f834872a42122c1949d3733aec55aae849172f35e80a805b8fea864df664"
   }
 }
