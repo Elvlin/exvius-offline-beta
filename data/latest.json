@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 21,
-  "version": "2026.11.18.21",
-  "minAppVersionCode": 9077,
+  "revision": 23,
+  "version": "2026.11.20.23",
+  "minAppVersionCode": 9111,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r20/exvius-client-assets-r20.zip",
-      "size": 103705021,
-      "unpackedSize": 103704865,
-      "sha256": "a07b8bbb758ebd0fee449e0763ea78abb97ceabfe558c1bc162f3d4503e589a1"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r23/exvius-client-assets-r23.zip",
+      "size": 102946742,
+      "unpackedSize": 102946586,
+      "sha256": "d7b07c9bfff292c30884e7d00dfb971da23ba25e403be909b2d61676d6391344"
     },
     {
       "id": "data-001",
@@ -185,17 +185,24 @@
       "size": 427739,
       "unpackedSize": 1540804,
       "sha256": "4d8e62be91d61cc86b1b33416217583be0744770359722a6a16b5ecbc388f4c4"
+    },
+    {
+      "id": "phone-tested-data-r23",
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r23/exvius-phone-tested-data-r23.zip",
+      "size": 133497405,
+      "unpackedSize": 175476182,
+      "sha256": "6aa56edc12afb5f31a8b387b921e32ad16fd89d02f8d12d52efc4dcccfc929c8"
     }
   ],
-  "downloadBytes": 20885195369,
-  "installedBytes": 21319674374,
-  "files": 16501,
+  "downloadBytes": 21017934495,
+  "installedBytes": 21494392277,
+  "files": 17090,
   "app": {
-    "version": "0.1.58",
-    "versionName": "offline.58",
-    "versionCode": 9098,
-    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.58/exvius-offline-v0.1.58-beta.apk",
+    "version": "0.1.71",
+    "versionName": "offline.71",
+    "versionCode": 9111,
+    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.71/exvius-offline-v0.1.71-beta.apk",
     "size": 41622744,
-    "sha256": "849cc3f214b33f096f3bcc0506ac713b367fd784a0f67a4ee4e111b09d8e6044"
+    "sha256": "de504386dd41d08d92fb406e3df71e24330f39ec1a0225c9beab1c3e2e398b44"
   }
 }
