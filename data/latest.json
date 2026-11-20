@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 23,
-  "version": "2026.11.20.23",
-  "minAppVersionCode": 9111,
+  "revision": 24,
+  "version": "2026.11.21.24",
+  "minAppVersionCode": 9114,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r23/exvius-client-assets-r23.zip",
-      "size": 102946742,
-      "unpackedSize": 102946586,
-      "sha256": "d7b07c9bfff292c30884e7d00dfb971da23ba25e403be909b2d61676d6391344"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r24/exvius-client-assets-r24.zip",
+      "size": 101579867,
+      "unpackedSize": 102957938,
+      "sha256": "756ba0f46663482e616fb43c0fb6483cdcefbe370994d6ed89aea9f6f820f3e7"
     },
     {
       "id": "data-001",
@@ -187,22 +187,22 @@
       "sha256": "4d8e62be91d61cc86b1b33416217583be0744770359722a6a16b5ecbc388f4c4"
     },
     {
-      "id": "phone-tested-data-r23",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r23/exvius-phone-tested-data-r23.zip",
-      "size": 133497405,
-      "unpackedSize": 175476182,
-      "sha256": "6aa56edc12afb5f31a8b387b921e32ad16fd89d02f8d12d52efc4dcccfc929c8"
+      "id": "phone-tested-data-r24",
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r24/exvius-phone-tested-data-r24.zip",
+      "size": 133533515,
+      "unpackedSize": 175890800,
+      "sha256": "0fb79f2106d3e3b13d73854cc79e1f21125c557d71c1eb11fad326f793a7b83e"
     }
   ],
-  "downloadBytes": 21017934495,
-  "installedBytes": 21494392277,
-  "files": 17090,
+  "downloadBytes": 21016603730,
+  "installedBytes": 21494818247,
+  "files": 17092,
   "app": {
-    "version": "0.1.71",
-    "versionName": "offline.71",
-    "versionCode": 9111,
-    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.71/exvius-offline-v0.1.71-beta.apk",
-    "size": 41622744,
-    "sha256": "de504386dd41d08d92fb406e3df71e24330f39ec1a0225c9beab1c3e2e398b44"
+    "version": "0.1.74",
+    "versionName": "offline.74",
+    "versionCode": 9114,
+    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.74/exvius-offline-v0.1.74-beta.apk",
+    "size": 41630936,
+    "sha256": "34be93cf28ec011aa93f44069d034c5f148d06a2ab2cb49b372daae274351712"
   }
 }
