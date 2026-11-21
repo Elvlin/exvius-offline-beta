@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 24,
-  "version": "2026.11.21.24",
+  "revision": 25,
+  "version": "2026.11.21.25",
   "minAppVersionCode": 9114,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r24/exvius-client-assets-r24.zip",
-      "size": 101579867,
-      "unpackedSize": 102957938,
-      "sha256": "756ba0f46663482e616fb43c0fb6483cdcefbe370994d6ed89aea9f6f820f3e7"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r25/exvius-client-assets-r25.zip",
+      "size": 101582597,
+      "unpackedSize": 102961425,
+      "sha256": "286d24a3c121e23b89282290590ec71bcdad85dd3d6b54a7af29e4ee12f086bd"
     },
     {
       "id": "data-001",
@@ -192,17 +192,24 @@
       "size": 133533515,
       "unpackedSize": 175890800,
       "sha256": "0fb79f2106d3e3b13d73854cc79e1f21125c557d71c1eb11fad326f793a7b83e"
+    },
+    {
+      "id": "phone-tested-data-r25",
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r25/exvius-phone-tested-data-r25.zip",
+      "size": 113946806,
+      "unpackedSize": 128858512,
+      "sha256": "3bc64c496b591f48f600496d59bd8754e3ced41a8e24e0c69be3a351cb943ef5"
     }
   ],
-  "downloadBytes": 21016603730,
-  "installedBytes": 21494818247,
-  "files": 17092,
+  "downloadBytes": 21130553266,
+  "installedBytes": 21623680246,
+  "files": 17179,
   "app": {
-    "version": "0.1.74",
-    "versionName": "offline.74",
-    "versionCode": 9114,
-    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.74/exvius-offline-v0.1.74-beta.apk",
-    "size": 41630936,
-    "sha256": "34be93cf28ec011aa93f44069d034c5f148d06a2ab2cb49b372daae274351712"
+    "version": "0.1.76",
+    "versionName": "offline.76",
+    "versionCode": 9116,
+    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.76/exvius-offline-v0.1.76-beta.apk",
+    "size": 41643224,
+    "sha256": "57cb1582a129dc8e953f0f1b5c5bbc47923db50b65f51ffb2484d2ccdd7a2ae7"
   }
 }
