@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 25,
-  "version": "2026.11.21.25",
-  "minAppVersionCode": 9114,
+  "revision": 31,
+  "version": "2026.11.22.31",
+  "minAppVersionCode": 9123,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r25/exvius-client-assets-r25.zip",
-      "size": 101582597,
-      "unpackedSize": 102961425,
-      "sha256": "286d24a3c121e23b89282290590ec71bcdad85dd3d6b54a7af29e4ee12f086bd"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r31/exvius-client-assets-r31.zip",
+      "size": 102521142,
+      "unpackedSize": 104071982,
+      "sha256": "1b636ddde8899920d1593010409e80b9a770cfbac38094f076c0f5629ec53a0d"
     },
     {
       "id": "data-001",
@@ -199,17 +199,24 @@
       "size": 113946806,
       "unpackedSize": 128858512,
       "sha256": "3bc64c496b591f48f600496d59bd8754e3ced41a8e24e0c69be3a351cb943ef5"
+    },
+    {
+      "id": "quest-raid-event-data-r31",
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r31/exvius-quest-raid-event-data-r31.zip",
+      "size": 109825660,
+      "unpackedSize": 313582484,
+      "sha256": "170b982b448c6fc50005457028fa44147605642a56674db7ea5fc824a01647e8"
     }
   ],
-  "downloadBytes": 21130553266,
-  "installedBytes": 21623680246,
-  "files": 17179,
+  "downloadBytes": 21241317471,
+  "installedBytes": 21938373287,
+  "files": 17289,
   "app": {
-    "version": "0.1.76",
-    "versionName": "offline.76",
-    "versionCode": 9116,
-    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.76/exvius-offline-v0.1.76-beta.apk",
-    "size": 41643224,
-    "sha256": "57cb1582a129dc8e953f0f1b5c5bbc47923db50b65f51ffb2484d2ccdd7a2ae7"
+    "version": "0.1.83",
+    "versionName": "offline.83",
+    "versionCode": 9123,
+    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.83/exvius-offline-v0.1.83-beta.apk",
+    "size": 41655512,
+    "sha256": "0e635499420d0b232c1da9dac4029c64a94d7a025a7fb657e86afdc9eec00ce9"
   }
 }
