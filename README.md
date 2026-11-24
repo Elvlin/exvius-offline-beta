@@ -2,9 +2,9 @@
 
 **Beta builds of Exvius Offline for testing before they reach the main app.**
 
-**[Download the beta APK](https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.89/exvius-offline-v0.1.89-beta.apk)**
+**[Download the beta APK](https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.90/exvius-offline-v0.1.90-beta.apk)**
 
-[What changed in v0.1.89](https://github.com/Elvlin/exvius-offline-beta/releases/tag/v0.1.89)
+[What changed in v0.1.90](https://github.com/Elvlin/exvius-offline-beta/releases/tag/v0.1.90)
 
 Every new version comes here first. Once it is tested and confirmed working, it is released in the main app at [Elvlin/exvius-offline](https://github.com/Elvlin/exvius-offline).
 
@@ -12,7 +12,7 @@ This is an unofficial fan project. It is not affiliated with Square Enix or gumi
 
 ## Install
 
-1. [Download the beta APK](https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.89/exvius-offline-v0.1.89-beta.apk) from the [release page](https://github.com/Elvlin/exvius-offline-beta/releases/tag/v0.1.89).
+1. [Download the beta APK](https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.90/exvius-offline-v0.1.90-beta.apk) from the [release page](https://github.com/Elvlin/exvius-offline-beta/releases/tag/v0.1.90).
 2. Install it on an **Android 7.0 or newer phone with 64-bit ARM support**.
 3. Open it with an internet connection. A fresh install downloads about **21 GB** of game data. Allow about **24 GB of free space** for setup.
 
