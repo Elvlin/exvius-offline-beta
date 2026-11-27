@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 34,
-  "version": "2026.11.25.34",
-  "minAppVersionCode": 9130,
+  "revision": 35,
+  "version": "2026.11.26.35",
+  "minAppVersionCode": 9131,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r34/exvius-client-assets-r34.zip",
-      "size": 109460438,
-      "unpackedSize": 109460282,
-      "sha256": "dca46b8a3010dac507c671511d2a4d29c9893c82ff1358dccb1e99a86f0af005"
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r35/exvius-client-assets-r35.zip",
+      "size": 108640471,
+      "unpackedSize": 108640315,
+      "sha256": "9223dd19f77f2023728646a6a3dcbcd849b3f004ed60a7941d30b11934aa38a1"
     },
     {
       "id": "data-001",
@@ -201,22 +201,22 @@
       "sha256": "3bc64c496b591f48f600496d59bd8754e3ced41a8e24e0c69be3a351cb943ef5"
     },
     {
-      "id": "quest-raid-event-data-r34",
-      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r34/exvius-quest-raid-event-data-r34.zip",
-      "size": 72117696,
-      "unpackedSize": 577486530,
-      "sha256": "f20edd1f197cbc5f0cda92564d0997dbe248e2b86c7f70b823864da91a0c1645"
+      "id": "quest-raid-event-data-r35",
+      "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/data-r35/exvius-quest-raid-event-data-r35.zip",
+      "size": 89923476,
+      "unpackedSize": 615922547,
+      "sha256": "9d154a20ed9ad82762643c753d48944a3b0e1b671e5292e01c9dcbdab2ec6150"
     }
   ],
-  "downloadBytes": 21210548803,
-  "installedBytes": 22207665633,
-  "files": 17773,
+  "downloadBytes": 21227534616,
+  "installedBytes": 22245281683,
+  "files": 17812,
   "app": {
-    "version": "0.1.90",
-    "versionName": "offline.90",
-    "versionCode": 9130,
-    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.90/exvius-offline-v0.1.90-beta.apk",
-    "size": 41708760,
-    "sha256": "65a24f32e7a6f1c580a5e5b308c1daa5ad0220e524ef6f904ac84ab72e5dc12f"
+    "version": "0.1.91",
+    "versionName": "offline.91",
+    "versionCode": 9131,
+    "url": "https://github.com/Elvlin/exvius-offline-beta/releases/download/v0.1.91/exvius-offline-v0.1.91-beta.apk",
+    "size": 41745624,
+    "sha256": "4aff48baf6bf49fec0d50d932cf1089b469c54b13da192af2b5631ee99b824a6"
   }
 }
